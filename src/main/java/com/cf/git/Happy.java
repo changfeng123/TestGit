@@ -6,6 +6,10 @@ public class Happy {
 		System.out.println("sdak");
 		System.out.println("right");
 		System.out.println("left");
+           
+		
+		
+		System.out.println("Third");
 		
 		System.out.println("hot_fix");
 	}
